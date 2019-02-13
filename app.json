@@ -34,7 +34,7 @@
 	"env": {
 		"PERSISTENT": {
 			"description": "If true, some application statte (such as the list of channels to monitor via the !notifyoffline command) will be persisted into Postgres.",
-			"value": "true"
+			"value": "false"
 		},
 		"SECRET_KEY": {
 			"description": "A secret key, used as a pre-shared key to authenticate clients.",
