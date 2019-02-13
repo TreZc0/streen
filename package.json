@@ -14,7 +14,6 @@
     "convict": "^4.4.1",
     "express": "^4.16.4",
     "listify": "^1.0.0",
-    "node-pg-migrate": "^3.16.0",
     "pg-connection-string": "^2.0.0",
     "pg-promise": "^8.5.5",
     "request-promise": "^4.2.2",
